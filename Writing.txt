@@ -1,0 +1,60 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trisha K.C. - Resume</title>
+    <link rel="stylesheet" href="style.css">
+</head><body><div class="resume">
+
+    <header>
+        <h1>TRISHA K.C.</h1>
+        <p>BBA Graduate | Management</p>
+    </header>
+
+    <section>
+        <h2>Contact</h2>
+        <p>Email: trishakccollage@gmail.com</p>
+        <p>Location: Panjim, Goa</p>
+    </section>
+
+    <section>
+        <h2>Career Objective</h2>
+        <p>
+            A motivated BBA graduate seeking an opportunity in management
+            where I can use my communication, leadership, creativity, and
+            technical skills while gaining professional experience.
+        </p>
+    </section>
+
+    <section>
+        <h2>Education</h2>
+        <h3>Bachelor of Business Administration (BBA)</h3>
+        <p>BBA Graduate</p>
+
+        <h3>Diploma in Microsoft Office</h3>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>Microsoft Excel</li>
+            <li>Microsoft PowerPoint</li>
+            <li>Microsoft Word</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Core Skills</h2>
+        <ul>
+            <li>Communication</li>
+            <li>Leadership</li>
+            <li>Creativity</li>
+            <li>Management</li>
+            <li>Teamwork</li>
+        </ul>
+    </section>
+
+</div>
+
+</body>
+</html>
